@@ -1,11 +1,11 @@
 class Solver
-  def factorial(n)
-    return 1 if n.zero?
+  def factorial(num)
+    return 1 if num.zero?
 
-    raise ArgumentError, 'Argument must be a non-negative integer' if n.negative?
+    raise ArgumentError, 'Argument must be a non-negative integer' if num.negative?
 
     result = 1
-    (1..n).each { |i| result *= i }
+    (1..num).each { |i| result *= i }
     result
   end
 
