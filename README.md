@@ -16,9 +16,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [OOP school library] <a name="about-project"></a>
+# 📖 [TDD] <a name="about-project"></a>
 
-**OOP school library** The "OOP School Library" project is an initial step in building a school library app using object-oriented programming in Ruby.
+**TDD** The "TDD" project is an initial step in building A TEST file  using object-oriented programming in Ruby.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project-folder
-  git clone https://github.com/ANTOINE1128/OOP--School--Library.git
+  git clone https://github.com/ANTOINE1128/TDD.git
 ```
 
 For more information on how to clone or fork a repository:
@@ -71,7 +71,7 @@ For more information on how to clone or fork a repository:
 To install dependencies, the following command must be run in the terminal:
 
 ```sh
-  cd OOP--School--Library
+  cd TDD
   rubocop
 ```
 
@@ -123,7 +123,7 @@ Future changes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ANTOINE1128/OOP--School--Library/issues).
+Feel free to check the [issues page](https://github.com/ANTOINE1128/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
